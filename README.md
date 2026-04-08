@@ -1,6 +1,6 @@
 # SI_lab1
 ## Autor:  21255
-### Laboratorium 1 ze sztucznej inteligencji
+### Laboratorium 1 - Model Liniowy
 1. Zmiana ilości próbek – np. 1000000 itp.
 2. Zmiana współczynnika uczenia się eta: 
 a. 0,0001
